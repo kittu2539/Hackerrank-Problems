@@ -5,7 +5,7 @@ int main(void)
 {
 	char ch;
 	int x;
-	cout<<"give any character\n";
+	cout<<"give any character\n"; // topu work
 	cin>>ch;
 	
 	cout<<x;
